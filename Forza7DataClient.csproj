@@ -6,7 +6,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Networker" Version="3.0.6-rc" />
+    <PackageReference Include="Networker" Version="3.0.7-rc" />
   </ItemGroup>
 
 </Project>
